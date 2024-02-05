@@ -1,0 +1,225 @@
+.about_first{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 100px;
+    background: #000;
+}
+
+.about_prom{
+    font-weight: 600;
+    color: #8ee6f1;
+    letter-spacing: 3px; /* Puedes ajustar el valor según tus necesidades */
+    font-size: var(--newfont2);
+}
+
+.about_description{
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 20px;
+    font-weight: 600;
+    color: #8ee6f1;
+}
+
+.about_title{
+    font-size: 5rem;
+    padding: 10px;
+
+      /* Fallback: Set a background color. */
+  background-color: red;
+  
+  /* Create the gradient. */
+  background-image: linear-gradient(45deg, #6bd7e6, #e4461f);
+  
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+
+   font-family: var(--newfont);
+}
+
+/*cards*/
+.pricing-table{
+  padding: 120px 20px;
+  height: 43rem;
+}
+
+.pricing-table .grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px 0px;
+  padding: 20px;
+}
+
+.pricing-table .grid .box{
+  width: 270px;
+  height: 27rem;
+  border:  1px solid #eee;
+  text-align: center;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px 5px rgba(0, 0, 0, 0.05);
+}
+
+.pricing-table .grid .box .title{
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: black;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 1rem;
+}
+
+.therapist{
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  color: black;
+  text-align: center;
+  width: 100%;
+}
+
+.experience{
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  color: black;
+  text-align: center;
+  width: 100%;
+}
+
+.btnpricecont{
+  margin-top: 4rem;
+}
+
+.btnprice{
+  font-family: var(--newfont);
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: #09C5A3;
+  border: solid #09C5A3  2px;
+  border-radius: 500px;
+  cursor: pointer;
+  padding: 12px 45px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  color: white;
+  margin: 0;
+}
+
+.btnprice:hover{
+  background-color: #00A98B;
+  border: 2px solid #00A98B;
+  transition: ease-in-out 0.5s;
+}
+
+.pricing-table .grid .box .price{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.price1{
+  font-size: 3.2rem;
+  font-weight: 700;
+  color: black;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 2.5rem;
+  font-family: var(--newfont);
+}
+
+.sesion{
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: var(--newfont);
+}
+
+.pricing-table .box.mainCard{
+  transform: scale(1.1);
+  background: #09C5A3;
+}
+
+.pricing-table .box.mainCard .btnprice{
+  background-color: #09C5A3;
+  border: solid #fff  2px;
+}
+
+.pricing-table .box.mainCard .price1{  
+  color: #fff;
+}
+
+.pricing-table .box.mainCard .title{  
+  color: #fff;
+}
+
+.pricing-table .box.mainCard .therapist{  
+  color: #fff;
+}
+
+.pricing-table .box.mainCard .experience{  
+  color: #fff;
+}
+
+.pricing-table .box.mainCard .sesion{  
+  color: #fff;
+}
+
+.pricing-table .box.mainCard .btnprice:hover{
+  background-color: #fff;
+  border: solid #fff  2px;
+  color: #09C5A3;
+  transition: ease-in-out 0.5s;
+}
+
+/*Second about*/
+
+.second_about{
+  grid-column: 1 / span 4;
+    grid-row: 4 / span 1;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: row;
+    max-height: 500px;
+    width: 100%;
+}
+
+  @media screen and (max-width: 800px) {
+    .PricingCard:nth-child(2) {
+      align-self: center;
+    }
+  }
+
+@media screen and (max-width: 850px){
+    .about_first{
+        width: 100%;
+    }
+
+    .about_title{
+        font-size: 2.5rem;
+    }
+
+    .about_description{
+        margin-left: 0;
+        width: 100%;
+        font-size: 0.7rem;
+    }
+
+}
+
+@media screen and (max-width: 500px){
+    .about_title{
+        font-size: 2rem;
+    }
+}
