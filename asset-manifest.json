@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/theraphypage/static/css/main.a17359cf.css",
-    "main.js": "/theraphypage/static/js/main.8a61394e.js",
+    "main.js": "/theraphypage/static/js/main.ae850497.js",
     "static/js/787.e56fd45e.chunk.js": "/theraphypage/static/js/787.e56fd45e.chunk.js",
     "static/media/banneryoga.png": "/theraphypage/static/media/banneryoga.904251c9267456495371.png",
     "static/media/doctor2.jpg": "/theraphypage/static/media/doctor2.a43a1fdc0f2a90214f3c.jpg",
@@ -16,11 +16,11 @@
     "index.html": "/theraphypage/index.html",
     "static/media/google.svg": "/theraphypage/static/media/google.330a2dc7f18d7502647dc5d6f93812ec.svg",
     "main.a17359cf.css.map": "/theraphypage/static/css/main.a17359cf.css.map",
-    "main.8a61394e.js.map": "/theraphypage/static/js/main.8a61394e.js.map",
+    "main.ae850497.js.map": "/theraphypage/static/js/main.ae850497.js.map",
     "787.e56fd45e.chunk.js.map": "/theraphypage/static/js/787.e56fd45e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a17359cf.css",
-    "static/js/main.8a61394e.js"
+    "static/js/main.ae850497.js"
   ]
 }
