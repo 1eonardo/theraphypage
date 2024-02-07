@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.770dccf6.css",
-    "main.js": "/static/js/main.dd001cf9.js",
-    "static/js/787.e56fd45e.chunk.js": "/static/js/787.e56fd45e.chunk.js",
-    "static/media/banneryoga.png": "/static/media/banneryoga.904251c9267456495371.png",
-    "static/media/doctor2.jpg": "/static/media/doctor2.a43a1fdc0f2a90214f3c.jpg",
-    "static/media/slowlife.jpg": "/static/media/slowlife.a94421488c421f557bb3.jpg",
-    "static/media/doctor3.jpg": "/static/media/doctor3.a11db57344c7f752726f.jpg",
-    "static/media/doctor4.jpg": "/static/media/doctor4.3d4947dba4dd5902aab9.jpg",
-    "static/media/doctor1.jpg": "/static/media/doctor1.30598995e5a4a858c219.jpg",
-    "static/media/LogoTherapy.png": "/static/media/LogoTherapy.c876fc5520b05728d341.png",
-    "static/media/meditation.jpg": "/static/media/meditation.002789723c8c41fa6959.jpg",
-    "static/media/LogoYoga.png": "/static/media/LogoYoga.5b396debf07889494896.png",
-    "static/media/yoga.jpg": "/static/media/yoga.9ba0e8139e9e02cd1db3.jpg",
-    "index.html": "/index.html",
-    "static/media/google.svg": "/static/media/google.330a2dc7f18d7502647dc5d6f93812ec.svg",
-    "main.770dccf6.css.map": "/static/css/main.770dccf6.css.map",
-    "main.dd001cf9.js.map": "/static/js/main.dd001cf9.js.map",
-    "787.e56fd45e.chunk.js.map": "/static/js/787.e56fd45e.chunk.js.map"
+    "main.css": "/theraphypage/static/css/main.a17359cf.css",
+    "main.js": "/theraphypage/static/js/main.8a61394e.js",
+    "static/js/787.e56fd45e.chunk.js": "/theraphypage/static/js/787.e56fd45e.chunk.js",
+    "static/media/banneryoga.png": "/theraphypage/static/media/banneryoga.904251c9267456495371.png",
+    "static/media/doctor2.jpg": "/theraphypage/static/media/doctor2.a43a1fdc0f2a90214f3c.jpg",
+    "static/media/slowlife.jpg": "/theraphypage/static/media/slowlife.a94421488c421f557bb3.jpg",
+    "static/media/doctor3.jpg": "/theraphypage/static/media/doctor3.a11db57344c7f752726f.jpg",
+    "static/media/doctor4.jpg": "/theraphypage/static/media/doctor4.3d4947dba4dd5902aab9.jpg",
+    "static/media/doctor1.jpg": "/theraphypage/static/media/doctor1.30598995e5a4a858c219.jpg",
+    "static/media/LogoTherapy.png": "/theraphypage/static/media/LogoTherapy.c876fc5520b05728d341.png",
+    "static/media/meditation.jpg": "/theraphypage/static/media/meditation.002789723c8c41fa6959.jpg",
+    "static/media/LogoYoga.png": "/theraphypage/static/media/LogoYoga.5b396debf07889494896.png",
+    "static/media/yoga.jpg": "/theraphypage/static/media/yoga.9ba0e8139e9e02cd1db3.jpg",
+    "index.html": "/theraphypage/index.html",
+    "static/media/google.svg": "/theraphypage/static/media/google.330a2dc7f18d7502647dc5d6f93812ec.svg",
+    "main.a17359cf.css.map": "/theraphypage/static/css/main.a17359cf.css.map",
+    "main.8a61394e.js.map": "/theraphypage/static/js/main.8a61394e.js.map",
+    "787.e56fd45e.chunk.js.map": "/theraphypage/static/js/787.e56fd45e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.770dccf6.css",
-    "static/js/main.dd001cf9.js"
+    "static/css/main.a17359cf.css",
+    "static/js/main.8a61394e.js"
   ]
 }
