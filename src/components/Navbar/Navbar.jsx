@@ -27,7 +27,7 @@ const Navbar = () => {
 
   return (
     <nav className="NavbarItems">
-      <Link to="/" className="linklogo">
+      <Link to="/theraphypage" className="linklogo">
         <h1 className="navbar-logo">
           {' '}
           <img className="imgnav" src={img1} alt="/theraphypage" /> MyHealth
