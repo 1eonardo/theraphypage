@@ -19,7 +19,7 @@ const Navbar = () => {
     e.preventDefault();
 
     // Redirigir a la página principal
-    window.location.href = '/#contact';
+    window.location.href = '/theraphypage';
 
     // Esperar a que la página principal se cargue completamente y luego desplazarse a la sección de contacto
     window.addEventListener('load', scrollToContact);
