@@ -30,7 +30,7 @@ const Navbar = () => {
       <Link to="/" className="linklogo">
         <h1 className="navbar-logo">
           {' '}
-          <img className="imgnav" src={img1} alt="/" /> MyHealth
+          <img className="imgnav" src={img1} alt="/theraphypage" /> MyHealth
         </h1>
       </Link>
       <ul className="nav-menu">
